@@ -1,9 +1,25 @@
 h1 {
   color: aliceblue;
 }
+
+
 p {
   color: aliceblue;
 }
+
 a {
     color: #3939d5d4;
+}
+
+article header h2 {
+  font-size: xx-large;
+  background-color: aliceblue;
+}
+
+article section h3 {
+  color: aliceblue;
+}
+
+li {
+  color: rgb(23, 55, 83);
 }
